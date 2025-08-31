@@ -8,5 +8,5 @@ Repo:
 GitHub repository: Intro_to_DB
 File: task_3.sql
 """
-USE DATABASE alx_book_store;
+USE alx_book_store;
 SHOW TABLES;
