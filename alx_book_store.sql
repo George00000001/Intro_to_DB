@@ -38,7 +38,7 @@ Repo:
 GitHub repository: Intro_to_DB
 File: alx_book_store.sql
 """
-CREATE DATABASE alx_book_store;
+CREATE DATABASE IF NOT EXISTS alx_book_store;
 
 USE ALX_BOOK_STORE;
 
