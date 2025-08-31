@@ -11,4 +11,4 @@ GitHub repository: Intro_to_DB
 File: task_4.sql
 """
 USE alx_book_store;
-SHOW COLUMNS FROM Books;
+SELECT * FROM Books;
